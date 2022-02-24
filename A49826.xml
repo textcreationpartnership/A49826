@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lawyers clarke trappand by the crafy whore of Canterbury, or, A True relation of the whole life of Mary Manders, the daughter of Thomas Manders a fidler in Canterbury 1. How she marryed a fidler at Dover, and a shoe-maker at the city of Canterbury. 2. How she cheated a vintner of 60. pound ... 3. How she cheated a French merchant ... 4. How she picks a    Kentish lords pocket ... 5. How she made her escape, when sold and ship'd for   the Barbadoes. 6. How she came to London ... 7. How she was discovered by a shoe-maker and carryed before a justice ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49826</idno>
+            <idno type="STC">Wing L739F</idno>
+            <idno type="STC">ESTC R43363</idno>
+            <idno type="EEBO-CITATION">27300321</idno>
+            <idno type="OCLC">ocm 27300321</idno>
+            <idno type="VID">110067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1724:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lawyers clarke trappand by the crafy whore of Canterbury, or, A True relation of the whole life of Mary Manders, the daughter of Thomas Manders a fidler in Canterbury 1. How she marryed a fidler at Dover, and a shoe-maker at the city of Canterbury. 2. How she cheated a vintner of 60. pound ... 3. How she cheated a French merchant ... 4. How she picks a    Kentish lords pocket ... 5. How she made her escape, when sold and ship'd for   the Barbadoes. 6. How she came to London ... 7. How she was discovered by a shoe-maker and carryed before a justice ...</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manders, Mary.</term>
+               <term>Female offenders --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110067:1"/>
+            <!-- PDF PAGE 35 -->
+            <pb facs="tcp:110067:1"/>
+            <!-- PDF PAGE 35 -->
+            <p>THE Lawyers Clarke TRAPPAND by the CRAFTY VVHORE OF CANTERBURY.</p>
+            <p>OR, A true Relation of the whole Life of <hi>Mary Mauders</hi> the Daughter of <hi>Thomas Manders</hi> a <hi>Fidler</hi> in <hi>CANTERBURY.</hi>
+            </p>
+            <p>Wherein is diſcovered,
+<list>
+                  <item>1. How ſhe marryed a <hi>Fidler</hi> at <hi>Dover,</hi> and a<hi>Shoe-maker</hi> at the City of <hi>Canterbury.</hi>
+                  </item>
+                  <item>2. How ſhe cheated a <hi>Vintner</hi> of 60. pound, and was committed to <hi>Newgate.</hi>
+                  </item>
+                  <item>3. How ſhe cheated a <hi>French</hi> Marchant of Rings, Iewels and other Rich Commodities laſt <hi>March.</hi>
+                  </item>
+                  <item>4. How ſhe pickt a <hi>Kentiſh</hi> Lords Pocket, at <hi>Graveſ-end,</hi> of his Watch and Mony.</item>
+                  <item>5. How ſhe made her eſcape, when ſold and ſhip'd for the <hi>Barbadoes.</hi>
+                  </item>
+                  <item>6. How ſhe came to <hi>London</hi> to the Exchange Tavern, naming her ſelf <hi>Henretta Maria de Vulva</hi> the Daughter of a great Prince in<hi>Germany,</hi> and married a Lawyers Clark on <hi>Eaſter-day</hi> laſt.</item>
+                  <item>7. How ſhe was diſcovered by a <hi>Shoe-maker,</hi> and carryed before a <hi>Juſtice,</hi> who Committed her to the <hi>Gate-houſe,</hi> All her rich <hi>Jewels</hi> (which were valued at three thouſand pound) being broke and found Counterfeits.</item>
+               </list>
+            </p>
+            <p>LONDON, Printed for <hi>John Johnſon.</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110067:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb n="1" facs="tcp:110067:2"/>
+            <!-- PDF PAGE 36 -->
+            <head>THE Lawyers Clark Out-witted. OR, A true Relation of the whole Life of <hi>Mary Mauders</hi> a Fidlers Daughter in the City of <hi>CANTERBURY.</hi>
+            </head>
+            <p>TO tell you all the pranks performed by this piece of impudence, were too much to be contained in one ſheet; but I ſhall give you an epitome of her Life and actions as follows, <hi>viz.</hi>
+            </p>
+            <p>Her birth and education was in <hi>Canterbury,</hi> her parents mean people, her own Father being a Fidler, named <hi>Thomas Mauders.</hi>
+            </p>
+            <p>Her Father in Law is by name Mr. <hi>Foord,</hi> and is alſo of the ſame profeſſion, but keeps an Inn in <hi>Canterbury.</hi> She was formerly for a cheat committed to <hi>Newgate,</hi> where ſhe had
+<pb n="2" facs="tcp:110067:3"/>
+               <!-- PDF PAGE 37 -->
+a homely black jade attended her as a Maid ſervant, the fact ſhe then committed was thus. She coming to <hi>London</hi> with her maid waiting on her, pretended to be a Lady of a great eſtate, and that ſhe had ſtore of mony coming up by the Carrier, which her made ſo cunningly averr'd, that for Wine and other dainties ſhe ran threeſcore pound in the Vintners debt, for which ſhe was committed, and being at liberty ſhe followed picking of pockets, whoreing and thieving; this was the life of this gallant Lady.</p>
+            <p>She alſo was well provided for Husbands having one a <hi>Fidler</hi> at <hi>Dover,</hi> the other a <hi>Shoe maker</hi> living in the City of <hi>Canterbury.</hi>
+            </p>
+            <p>About two Months ſince, coming to <hi>London,</hi> ſhe fell into the company of a <hi>French</hi> Marchant, to whom ſhe declard the greatneſs of her Birth and Parentage, and of the great eſtate ſhe ſhould receive from the Lord ner father.</p>
+            <p>This declaration of her Ladyſhip ſeconded by her waiting, maid, took ſo much with Mounſier that he furniſhed her fin<g ref="char:EOLhyphen"/>gers with gold Rings, cloths and neceſſaries to a great value, and expecting the coming of her riches married her, but at laſt diſcovering he was cheated, he appointed her to go to <hi>Deale</hi> to a veſſel he named (intending to ſell her, and ſend her to the <hi>Barbadoes</hi>) ſhe went on her journey, he promiſing to come after her and to go with her.</p>
+            <p>In her journy coming to <hi>Graves-end,</hi> ſhe went to an Inn, where a <hi>Ke<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiſh.</hi> Lord was drinking, who inquiring what ſhe was, by her deportment ſuppoſed her to he ſome great Lady, which ſhe ſufficiently made out, ſo that he k<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndly welcomed her in his company; but afterwards repenced his bargain and would have given 5 pound to any one that ſhould g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve him notice where ſhe was; for when ſhe was gone he found that ſhe had taken his Watch and mony to bear her company in her journey.</p>
+            <p>From thence ſhe came next to <hi>Canterbury</hi> and perſwaded her ſiſter <hi>Joane Mauders</hi> to attend her as he<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maid to the Ship, which to credit her ſiſter ſhe willingly performed; but when ſhe came aboard, and underſtood the Veſſel was bound
+<pb n="3" facs="tcp:110067:3"/>
+               <!-- PDF PAGE 37 -->
+for the <hi>Barbadoes,</hi> ſhe ſent to <hi>Dover</hi> Caſtle to the Fidler her Husband, who was a Soldier there, and deſired him to fetch her off.</p>
+            <p>Her Husband hearing of her riches in Rings and Jewels im<g ref="char:EOLhyphen"/>braced that opportunity, and went with a File of Soldiers to demand her (intending to get the riches and be divorced from her) but was denyed her by the owne<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Ship.</p>
+            <p>Hereupon he went back, got a Note fro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Caſtle, and came againe to demand her; they not da<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to deny the writing, ſtript of her rich Cloaths, and took away her rings and Jewels and turn'd her and her Siſter aſhore, ſo that the poor man her Husband was not a penny the better, but yet gave her no entertainment, ſo that ſhe and <hi>Jone</hi> were forced in a poor Condition to return to <hi>Canterbury.</hi>
+            </p>
+            <p>Now to come to this laſt and grand cheat; after ſhe had a little <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ec<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uted her ſelf, and was in ſome handſome appa<g ref="char:EOLhyphen"/>rel, ſhe came to <hi>London,</hi> and took her lodging at the Ex<g ref="char:EOLhyphen"/>change Tave<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n near the Stocks, where ſhe met with a Law<g ref="char:EOLhyphen"/>yers Clark who ſhe ſo ſweetned on, that he ſoon became a ſuiter to her, ſhe telling him of her Birth and Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren<g ref="char:EOLhyphen"/>tage.</p>
+            <p>Firſt ſhe acquainted him that her name was <hi>Henretta Mar<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Devulva,</hi> Daughter to a great Prince in <hi>Germany,</hi> and that w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n ſhe was two years old, ſhe was put in a <hi>Nunnery,</hi> where ſhe remained till now that ſhe made her happy eſcape, where ſhe had left as many Cloaths as was worth 3000 pound.</p>
+            <p>Thence ſhe came to her own Country in <hi>Germany,</hi> and ſome of the Princes there would have perſwaded her to mar<g ref="char:EOLhyphen"/>ry an Old Man, which ſhe would not do, leaſt her Eſtate (if ſhe dyed without Iſſue) ſhould go to the <hi>Nunnery;</hi> from whence (to prevent all danger) ſhe came over into this Country, and had in her keeping as many Jewels as were judg'd by a Gold-Smith (whom they ſent for) to be worth three thouſand pound.</p>
+            <p>She alſo told him, that ſhe had a Coach and ſix Flanders Mares coming over, with ſtore of Money, her Eſtate being
+<pb n="4" facs="tcp:110067:4"/>
+               <!-- PDF PAGE 38 -->
+ten or twelve thouſand pounds <hi>per annum;</hi> and the better to carry on her deſign, ſhe ſaid ſhe had a Steward in <hi>Germany</hi> to whom ſhe fram'd a Letter which was ſent by the Poſt, and an anſwer return'd to this effect, <hi>viz</hi>
+            </p>
+            <p>Madam, The money you ſent for is not yet ready, but I have gathered three thouſand pound which ſhall come by the next Ship, and alſo your Coach and ſix Horſes with it, which made the ſtory ſo plain, as many wiſe heads (beſides the freſh-water Lad) beleived it to be truth.</p>
+            <p>Hereupon his freinds made up the match, and upon <hi>Eaſter</hi> day their Nuptial was ſolemnized of this young Lord and Lady; for which purpoſe a Gown was bought her of fifty five pound beſides other Neceſſaries, the young Lord have<g ref="char:EOLhyphen"/>ing his Lackey to wait on him, all things being performed in a noble manner, to the admiration of all his old acquain<g ref="char:EOLhyphen"/>tance.</p>
+            <p>The Wedding being done, they provided Coaches for their friends and went to <hi>Barnet,</hi> where they continued making merry till <hi>Tueſday</hi> following; where they ſpent in ſo high a nature as ſome will repent their acquaintance with this new <hi>Germany</hi> Lady, who ſpoke Dutch ſo exactly that ſhe deceived many, and but little <hi>Engliſh</hi> and that in ſuch a broken manner as they could hardly underſtand her</p>
+            <p>
+               <hi>Tueſday</hi> ſhe came back, the young Lord would have had her go to Court becauſe ſhe pretended to have great friends there, but ſhe refuſed that propoſition till her own Coach and Horſes came.</p>
+            <p>Her deportment was very noble, and her heart open, for paſſing by New-gate (the old Caſtle of her ſafety) ſhe gave her Lackey half a Crown to put in the Priſoners bag.</p>
+            <p>Since this, one Clark a Porter (who plyes at <hi>Warwick-Lane</hi>-end) carryed her a Letter, with which ſhe gave order he ſhould come up to her bed-Chamber, where ſhe askt what he would have for the Letter, he deſired eight pence, ſhe told him that was too little, and gave him a ſhilling, and askt him to drink her Lords health, which he accepted of, upon which ſhe call'd for a bottle of Sack, and after he had
+<pb n="5" facs="tcp:110067:4"/>
+               <!-- PDF PAGE 38 -->
+drank that, made him drink her health till the bottle was out, and the poor Porter went reeling home.</p>
+            <p>The Nuptial being paſt, and all things concluded, ſhe was deſigned to make up her pack and begone; but a Shooe-make comeing in, who had formerly wrought with her Hus<g ref="char:EOLhyphen"/>band i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Canter<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> ſeeing her, ſaid to ſome of the Houſe ſhe was a Whore, they replyed he had beſt have a care what he ſaid, for ſhe was a perſon of Honour, but he ſtill perſiſted and <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſhe was a Whore, and hee'd prove her a Whore, with which b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng brought to the room, he look'd in her face and ſaid ſhe was the ſame perſon he took her for, and that he wrought with her Husband who was a Shooe-maker in <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and that ſhe had another a Fidler, who is a Souldier in 
+<hi>Dover</hi> Caſtle.</p>
+            <p>Hereupon ſhe was carried before a Iuſtice and examined, and her Iewels and Rings were all found Cou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terfet, upon which ſhe was committed to the <hi>Gate-Houſe,</hi> from whence (if be firſt Husband appear, ſhe will be tranſported to her old quarters at <hi>New-Gate,</hi> and finiſh her courſe at <hi>Padding<g ref="char:EOLhyphen"/>ton<g ref="char:punc">▪</g>
+               </hi> if ſhe do not Cheat Squire <hi>Dun</hi> of his Right and Title, which is a juſt Doom for all ſuch Impudent pieces of Ini<g ref="char:EOLhyphen"/>quity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
